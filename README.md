@@ -1,4 +1,4 @@
-# Vitlaii Vernyhor
+# Vitalii Vernyhor
 
 # Lab 1 Fat_dialog
 
